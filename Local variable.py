@@ -3,5 +3,3 @@ def function(value):
     print(x)
 
 print(function(20))
-
-print(x)
